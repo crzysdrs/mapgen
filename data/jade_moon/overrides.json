@@ -1,0 +1,317 @@
+{
+    "Fiefdom of Avila": {
+        "x": 93,
+        "y": 3,
+        "type": "City"       
+    },
+    "Stone Council": {
+        "x": 92,
+        "y": 3,
+        "type": "SmallCity"       
+    },
+    "Minas Ithil": {
+        "x": 76,
+        "y":2,
+        "type": "FairyCity"     
+    },
+    "Seaside": {
+        "x": 80,
+        "y":9,
+        "type": "FairyCity"     
+    },
+    "Uccastrog": {
+        "x":56,
+        "y":3,
+        "type": "Castle"        
+    },
+    "Sailor's Bane": {
+        "x":60,
+        "y":4,
+        "type": "Castle"
+    },
+    "Woe's Landing": {
+        "x":54,
+        "y":7,
+        "type": "Castle"
+    },
+    "Erizanic Refuge": {
+        "x": 42,
+        "y": 7,
+        "type": "Fortress"
+    },
+    "Fey Rest": {
+        "x":31,
+        "y":10,
+        "type": "FairyTown"       
+    },
+    "Stone Monk School": {
+        "x":39,
+        "y":31,
+        "type": "Temple"
+    },
+    "Throne of Giants": {
+        "x":26,
+        "y":29,
+        "type": "City"
+    },
+    "Ghost Wizard's Tower": {
+        "x":38,
+        "y":35,
+        "type": "Tower"       
+    },
+    "Iridian": {
+        "x":39,
+        "y":38,
+        "type": "FairyCity"
+    },
+    "Dubrovnik": {
+        "x":34,
+        "y":37,
+        "type": "City"
+    },
+    "Lair of the Elder Brain": {
+        "x":25,
+        "y":42,
+        "type":"Mushroom"
+    },
+    "Warm Rock": {
+        "x":32,
+        "y":45,
+        "type":"Fortress"
+    },
+    "Hungry Water Sea": {
+        "x":39,
+        "y":42,
+        "type":"WaterSea"   
+    },
+    "Temple of the Flowers": {
+        "x":44,
+        "y":40,
+        "type":"Temple"
+    },
+    "Znojmo": {
+        "x":45,
+        "y":45,
+        "type":"Fortress"
+    },
+    "Lorian": {
+        "x":49,
+        "y":40,
+        "type":"FairyTown"
+    },
+    "River Monk School": {
+        "x":56,
+        "y":38,
+        "type": "Temple"
+    },
+    "Forest's Heart": {
+        "x":59,
+        "y":45,
+        "type": "FairyTown"
+    },
+    "Ancient Ruined City": {
+        "x":68,
+        "y":46,
+        "type":"Ruins"        
+    },
+    "Shadrach": {
+        "x":66,
+        "y":41,
+        "type":"Village"
+    },
+    "Meshach": {
+        "x":69,
+        "y":42,
+        "type":"Village"
+    },
+    "Abednego": {
+        "x":71,
+        "y":40,
+        "type":"Village"
+    },
+    "Deseret": {
+        "x":68,
+        "y":40,
+        "type":"Castle"
+    },
+    "Unnamed City": {
+        "x":56,
+        "y":34,
+        "type":"City"
+    },
+    "Siren's Song": {
+        "x":62,
+        "y":30,
+        "type":"City"
+    },
+    "Wind Monk School": {
+        "x":69,
+        "y":35,
+        "type":"Temple"
+    },
+    "Benichor Lair": {
+        "x":69,
+        "y":38,
+        "type":"Lair"
+    },
+     "Lair of the Ancient Hydra": {
+        "x":72,
+        "y":43,
+        "type":"Lair"
+    },
+    "Forest Grove": {
+        "x":76,
+        "y":43,
+        "type":"Village"
+    },
+    "Ill Omen": {
+        "x":76,
+        "y":46,
+        "type":"FairyCity"
+    },
+    "Obidos": {
+        "x":80,
+        "y":42,
+        "type":"City"
+    },
+    "Yuan-ti Cult Temple": {
+        "x":82,
+        "y":44,
+        "type":"Temple"
+    },
+    "Sasserine": {
+        "x":87,
+        "y":39,
+        "type":"City"
+    },
+    "West End": {
+        "x":87,
+        "y":40,
+        "type":"SmallCity"
+    },
+    "Red Hook": {
+        "x":89,
+        "y":40,
+        "type":"SmallCity"
+    },
+    "Rock School": {
+        "x":88,
+        "y":41,
+        "type":"Temple"
+    },
+    "Hilshire": {
+        "x":88,
+        "y":44,
+        "type":"Village"
+    },
+
+    "Bardo Thule": {
+        "x":95,
+        "y":44,
+        "type":"Castle"
+   },
+    "Good Landing": {
+        "x":82,
+        "y":32,
+        "type":"City"
+    },
+    "Pearl Water": {
+        "x":91,
+        "y":33,
+        "type":"City"
+    },
+    "Sea's Gate": {
+        "x":78,
+        "y":23,
+        "type":"Village"
+    },
+    "Mt1": {
+        "x":74,
+        "y":22,
+        "type":"Mountain",
+        "elevation":2000
+    },
+    "Mt2": {
+        "x":75,
+        "y":20,
+        "type":"Mountain",
+        "elevation":2000
+    },
+    "Mt3": {
+        "x":75,
+        "y":21,
+        "type":"Mountain",
+        "elevation":2000
+    },
+    "Mt4": {
+        "x":76,
+        "y":20,
+        "type":"Mountain",
+        "elevation":2000
+    },
+    "Livda": {
+        "x":76,
+        "y":21,
+        "type":"City",
+        "elevation":2000
+    },
+    "Mt5": {
+        "x":77,
+        "y":19,
+        "type":"Mountain",
+        "elevation":2000
+    },
+    "Mt6": {
+        "x":77,
+        "y":20,
+        "type":"Mountain",
+        "elevation":2000
+    },
+    "Mt7": {
+        "x":78,
+        "y":20,
+        "type":"Mountain",
+        "elevation":2000
+    },
+    "Mt8": {
+        "x":79,
+        "y":20,
+        "type":"Mountain",
+        "elevation":2000
+    },
+    "Xi'an": {
+        "x":82,
+        "y":24,
+        "type":"Village"
+    },
+    "Ember Monk Temple": {
+        "x":84,
+        "y":25,
+        "type":"Temple"
+    },
+    "Torrent Monk Temple": {
+        "x":72,
+        "y":23,
+        "type":"Temple"
+    },
+    "Serpent's Mire 1": {
+        "x": 55,
+        "y":40,
+        "type":"WaterSea"
+    },
+    "Serpent's Mire 2": {
+        "x": 57,
+        "y":40,
+        "type":"WaterSea"
+    },
+    "Serpent's Mire 3": {
+        "x": 58,
+        "y":41,
+        "type":"WaterSea"
+    },
+    "Five Nothings": {
+        "x": 96,
+        "y":41,
+        "type":"Pagoda"
+    }
+}
